@@ -5,7 +5,7 @@
 ## Integrantes
 - 
 - Gutierrez Soto , Brhandon Luis
-- 
+- Carlos Acosta, Rodrigo Dion
 
 ----
 
