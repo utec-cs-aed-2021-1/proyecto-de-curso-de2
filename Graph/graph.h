@@ -36,7 +36,7 @@ private:
     std::unordered_map<string, Vertex<TV, TE>*>  vertexes;
     
 public:
-    bool insertVertex(string id, TV vertex) = 0;   
+    bool insertVertex(string id, TV vertex) = 0;
     bool createEdge(string id1, string id2, TE w) = 0;     
     bool deleteVertex(string id) = 0;     
     bool deleteEdge(string id) = 0;   
@@ -51,6 +51,8 @@ public:
     void displayVertex(string id)= 0;
     bool findById(string id) = 0;
     void display() = 0;
+
+
 };
 
 #endif

@@ -6,6 +6,11 @@
 template<typename TV, typename TE>
 class DirectedGraph : public Graph<TV, TE>{
 
+    Graph::insertVertex{
+        Vertex *nuevo = new Vertex<>;
+
+    }
+
 };
 
 #endif
